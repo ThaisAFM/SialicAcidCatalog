@@ -1,0 +1,3 @@
+#!/bin/bash
+
+esearch -db protein -query "gene" | efilter -organism bacteria -source refseq | efetch -format fasta >> gene_refseq.fasta
