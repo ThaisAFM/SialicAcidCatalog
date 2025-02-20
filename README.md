@@ -1,2 +1,2 @@
-# SialicAcidDatabase
-Scripts used in the Sialic Acid Database development
+# SialicAcidCatalog
+Scripts used in the Sialic Acid Catalog development
